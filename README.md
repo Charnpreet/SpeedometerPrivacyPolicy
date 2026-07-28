@@ -1,56 +1,64 @@
-# Privacy Policy
+---
+title: Speedometer Digital Privacy Policy
+---
 
-Charnpreet Singh built the DigitalSpeedoMeter app as a Free app. This SERVICE is provided by Charnpreet Singh at no cost and is intended for use as is.
+# Speedometer Digital Privacy Policy
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+**Effective date:** 28 July 2026
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Speedometer Digital is a GPS speedometer and trip tracker developed by
+Charnpreet Singh. Your privacy is built into the app: the app does not create an
+account, display advertising, use analytics, or send your trip information to
+the developer or to third parties.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Gurbani AnyTime unless otherwise defined in this Privacy Policy.
+## Data the app uses
 
-# Information Collection and Use
+Speedometer Digital requests access to your device's location while you use the
+app. Location is required to calculate and display:
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+- current speed, heading, and movement status;
+- live map position and route;
+- trip distance, duration, average speed, and maximum speed; and
+- saved trip routes and summaries.
 
-# Log Data
+When you choose to record a trip, its route and summary are stored locally on
+your device. App preferences, such as measurement units and appearance, are
+also stored locally.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+## Data collection and sharing
 
-# Cookies
+The developer does **not** collect, transmit, sell, or share your location,
+trip history, device identifiers, usage data, diagnostics, or personal
+information.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+The app does not include advertising, analytics, social-network, or
+third-party tracking SDKs. Apple Maps content is provided by Apple's system
+MapKit framework and is subject to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+## Your choices and controls
 
-# Service Providers
+Location access is optional, but live speed, map, and trip features cannot work
+without it. You can change the app's location permission at any time in:
 
-I may employ third-party companies and individuals due to the following reasons:
+**Settings > Privacy & Security > Location Services > Speedometer Digital**
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+You can delete individual saved trips inside the app. Deleting the app also
+removes its locally stored trips and preferences from the device, subject to
+the device's normal backup and restore behaviour.
 
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+## Children's privacy
 
-# Security
+The app does not knowingly collect personal information from anyone, including
+children.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+## Changes to this policy
 
-# Links to Other Sites
+This policy may be updated when the app's features or privacy practices change.
+The effective date above will be revised when an update is published.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+## Contact
 
-# Children’s Privacy
+Questions about this policy can be sent to
+[sony_baf@yahoo.co.in](mailto:sony_baf@yahoo.co.in).
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13\. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
-
-# Changes to This Privacy Policy
-
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2020-08-04
-
-# Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sony_baf@yahoo.co.in.
+For product help, visit [Speedometer Digital Support](support/).
